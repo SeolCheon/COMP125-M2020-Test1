@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.13.1",
+    "bootstrap": "^4.5.0",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  },
+  "name": "COMP124-M2020-MIDTERM",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/SeolCheon/COMP125-M2020-Test1.git",
+  "author": "Seol Cheon",
+  "license": "MIT"
+}
